@@ -1,0 +1,1 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px}#root{min-height:100vh}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #9ac69e;outline-offset:2px}::selection{background:#cce5ca;color:#173b2c}

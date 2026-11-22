@@ -1,0 +1,12 @@
+node_modules/
+frontend/node_modules/
+backend/target/
+target/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.log
+backend/src/main/resources/application-local.propertiesbackend/src/main/resources/application.properties
+application.properties
